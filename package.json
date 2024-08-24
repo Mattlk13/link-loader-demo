@@ -20,6 +20,6 @@
     "file-loader": "^0.8.4",
     "link-loader": "^0.0.1",
     "webpack": "^2.2.0",
-    "webpack-dev-server": "^2.2.0"
+    "webpack-dev-server": "^3.1.11"
   }
 }
